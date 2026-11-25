@@ -5,7 +5,8 @@ Security researcher in training — malware detection and fraud analysis.
 ## Profile
 
 - Undergraduate student at Zhengzhou Sias University
-- Security internship (2026–present): SOC operations, incident response, threat intelligence, EDR rule testing
+- Security internship at SeeVuln (software security and attack surface management), 2026–present
+- Work: SOC operations, incident response, threat intelligence, EDR rule testing
 
 ## Focus
 
